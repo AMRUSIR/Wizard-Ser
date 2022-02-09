@@ -39,7 +39,7 @@
 ## `DEPLOY`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Wizard-Ser)
-## https://replit.com/@AMRUSIR/Wizard-Ser-Qr-test
+## (https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AMRUSIR/Wizard-Ser-Qr-test)
 
 ----------
 
